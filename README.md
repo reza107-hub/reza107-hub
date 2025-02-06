@@ -1,21 +1,19 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGnsgs44o0bDQ/profile-displaybackgroundimage-shrink_350_1400/0/1685590584264?e=1693440000&v=beta&t=cu6LOIz6CW4PGaWocYM8vZVcxQ0bA7sDOw5kn-5YN9k)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Aminur Rashid Reza</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Sylhet, Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reza107-hub&label=Profile%20views&color=0e75b6&style=flat" alt="reza107-hub" /> </p>
 
 <p align="left"> <a href="https://twitter.com/reza6f9" target="blank"><img src="https://img.shields.io/twitter/follow/reza6f9?logo=twitter&style=for-the-badge" alt="reza6f9" /></a> </p>
 
-- 🌱 I’m currently learning **React Js, Next Js, Three Js**
-
-- 👨‍💻 All of my projects are available at [https://reza-107-portfolio.netlify.app](https://reza-107-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://arreza-portfolio.netlify.app/](https://arreza-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **rashidaminur104@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1jNPwmX0tIGM5HzkbQh1Nc-K4H2Iqby-6/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1YB3lzbSMK77brqhNsJe9IT0nu4hGZsaU/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
